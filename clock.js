@@ -2,7 +2,7 @@ const clock = () => {
   const d = new Date();
   
   let year = d.getFullYear();
-  let month = d.getMonth();
+  let month = d.getMonth()+1;
   let date = d.getDate();
   let dayNum = d.getDay();
   const weekday = ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"];
