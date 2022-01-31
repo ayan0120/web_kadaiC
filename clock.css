@@ -22,9 +22,17 @@
   font-size: 100px;
 }
 
+/* 日付のスタイル */
+.clock-date {
+  font-size: 25px;
+}
+
 /* 文字サイズ調整 */
 @media screen and (max-width: 500px) {
   .clock-time {
     font-size: 20vw;
+  }
+  .clock-date {
+    font-size: 5vw;
   }
 }
