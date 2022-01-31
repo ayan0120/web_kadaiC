@@ -19,12 +19,12 @@
 
 /* 時間のスタイル */
 .clock-time {
-  font-size: 100px;
+  font-size: 150px;
 }
 
 /* 日付のスタイル */
 .clock-date {
-  font-size: 25px;
+  font-size: 50px;
 }
 
 /* 文字サイズ調整 */
