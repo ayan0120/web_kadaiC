@@ -5,7 +5,7 @@
 .container {
   width: 100%;
   height: 100vh;
-  background-color: #15151e;
+  background-color: #ffffcc;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -14,8 +14,8 @@
 
 /* 時計の共通スタイル */
 .clock {
-  font-family: 'Share Tech Mono', monospace;
-  color: #daf6ff;
+  font-family: 'Courier New', Courier, monospace;
+  color: #669966;
   text-shadow: 0 0 20px #0aafe6;
   line-height: 1.2;
   text-align: center;
